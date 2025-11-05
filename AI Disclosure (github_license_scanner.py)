@@ -1,1 +1,3 @@
-
+This file was prepared with the assistance of AI
+Output from Gemini, OpenAI to student, 29 September 2025
+The output was generated in response to the prompt, 'write a simple program that will scan a github account a return a list of all projects there and the licence of each project. for example, scan https://github.com/actgov and return a list of public repositories (eg." portion-plan-quality-control") with licence ("Apache 2.0"). These would be best displayed in excel'

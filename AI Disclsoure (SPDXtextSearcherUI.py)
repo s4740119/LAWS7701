@@ -1,1 +1,3 @@
-
+This file was prepared with the assistance of AI
+Output from Gemini, OpenAI to student, 29 September 2025
+The output was generated in response to the prompt, ‘you are a researcher and you need to search the full text of SPDX licences. create a program that (1) conducts a full text search of all the licences in a specific directory, (2) displays name of licence, whether it is a OSI-approved licence and paragraph before and after and (3) with a simple user interface that allow entry of search term'
